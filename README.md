@@ -4,13 +4,13 @@ Later other related projects may come up, like a User Interface, and maybe makin
 
 Test 1:
 Edit file
-#Stage file
-#Commit changes
+Stage file
+Commit changes
 
 
 Test 2:
-#Edit file
-#Commit with -a
+Edit file
+Commit with -a
 
 Test 3:
 push origin to master.
